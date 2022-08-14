@@ -1,4 +1,5 @@
-const Intern = require('../lib/Intern.js');
+//const Intern = require('../lib/Intern.js');
+import Intern from "../lib/Intern.js";
 
 test('creates school for intern', () => {
     const testSchool = 'university';

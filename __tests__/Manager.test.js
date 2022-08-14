@@ -1,4 +1,5 @@
-const Manager = require('../lib/Manager.js');
+//const Manager = require('../lib/Manager.js');
+import Manager from "../lib/Manager.js";
 
 test('gets managers office number', () => {
     const testOffice = 10;

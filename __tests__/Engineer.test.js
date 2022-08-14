@@ -1,4 +1,6 @@
-const Engineer = require('../lib/Engineer.js');
+//const Engineer = require('../lib/Engineer.js');
+import Engineer from "../lib/Engineer.js";
+
 
 test('creates github for engineer', () => {
     const testGitHub = 'github';
